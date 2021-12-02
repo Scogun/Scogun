@@ -1,4 +1,10 @@
-### Hi there 👋
+<h1 align="center">Hi 👋, I'm Sergey Antonov,  aka Scogun</h1>
+
+I'm passionate about:
+1. Algorithms: <a href="https://www.hackerrank.com/Scogun?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_source=badge_share_profile"><img width="150" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGTciH3SZLNAg/articleshare-shrink_800/0/1638478539479?e=1638565200&amp;v=beta&amp;t=DwdK30Npwd2Ke_PFRfkZZafGFTrpu04-hjckygej5Y8" hight="150"/></a>
+2. Best code architecture practice on: <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/96/000000/kotlin.png"/> <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/96/000000/powershell.png"/>
+3. Implement fastest solution for: <img src="https://img.icons8.com/color/96/000000/web.png"/> <img src="https://img.icons8.com/color/96/000000/android-os.png"/> <img src="https://img.icons8.com/fluency/96/000000/windows-10.png"/>
+<!--4. Test coverage by:  -->
 
 <!--
 **Scogun/Scogun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
