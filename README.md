@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Sergey Antonov,  aka Scogun</h1>
 
 I'm passionate about:
-1. Algorithms: <a href="https://www.hackerrank.com/Scogun?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_source=badge_share_profile"><img width="150" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGTciH3SZLNAg/articleshare-shrink_800/0/1638478539479?e=1638565200&amp;v=beta&amp;t=DwdK30Npwd2Ke_PFRfkZZafGFTrpu04-hjckygej5Y8" hight="150"/></a>
-2. Best code architecture practice on: <img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/> <img src="https://img.icons8.com/color/96/000000/kotlin.png"/> <img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/> <img src="https://img.icons8.com/color/96/000000/powershell.png"/>
-3. Implement fastest solution for: <img src="https://img.icons8.com/color/96/000000/web.png"/> <img src="https://img.icons8.com/color/96/000000/android-os.png"/> <img src="https://img.icons8.com/fluency/96/000000/windows-10.png"/>
+1. Algorithms: <a href="https://www.hackerrank.com/Scogun?badge=problem-solving&stars=4&level=2&hr_r=1&utm_campaign=social-buttons&utm_source=badge_share_profile" target="_blank"><img width="150" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQGTciH3SZLNAg/articleshare-shrink_800/0/1638478539479?e=1638565200&amp;v=beta&amp;t=DwdK30Npwd2Ke_PFRfkZZafGFTrpu04-hjckygej5Y8" hight="150"/></a>
+2. Best code architecture practice on: <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://img.icons8.com/color/96/000000/c-sharp-logo.png"/></a> <a href="https://kotlinlang.org/" target="_blank"><img src="https://img.icons8.com/color/96/000000/kotlin.png"/></a> <a href="https://en.wikipedia.org/wiki/JavaScript" target="_blank"><img src="https://img.icons8.com/color/96/000000/javascript--v1.png"/></a> <a href="https://docs.microsoft.com/en-us/powershell/scripting/overview?view=powershell-7.2#scripting-language" target="_blank"><img src="https://img.icons8.com/color/96/000000/powershell.png"/></a>
+3. Implement fastest solution for: <a href="https://en.wikipedia.org/wiki/Web_application" target="_blank"><img src="https://img.icons8.com/color/96/000000/web.png"/></a> <a href="https://www.android.com/" target="_blank"><img src="https://img.icons8.com/color/96/000000/android-os.png"/></a> <a href="https://www.microsoft.com/en-us/windows/" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/windows-10.png"/></a>
 <!--4. Test coverage by:  -->
 
 <!--
