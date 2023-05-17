@@ -8,6 +8,19 @@ I'm passionate about:
 5. And use for it: <a href="https://www.docker.com/" target="_blank"><img src="https://img.icons8.com/fluency/96/000000/docker.png"/></a> <a href="https://kubernetes.io/" target="_blank"><img src="https://img.icons8.com/color/96/000000/kubernetes.png"/></a>
 
 You will find all information about my experiences and achievements in my account on <a href="https://www.linkedin.com/in/sergey-antonov-35611658" target="_blank"><img src="https://img.icons8.com/color/96/000000/linkedin.png"/></a>
+
+<div align="center">
+  <source
+    srcset="https://github-readme-stats-ten-gilt.vercel.app/api?username=scogun&show_icons=true&count_private=true&theme=prussian"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats-ten-gilt.vercel.app/api?username=scogun&show_icons=true&count_private=true&theme=transparent"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <picture>
+    <img src="https://github-readme-stats-ten-gilt.vercel.app/api?username=scogun&show_icons=true&count_private=true" />
+  </picture>
+</div>
+
 <!--4. Test coverage by:  -->
 
 <!--
